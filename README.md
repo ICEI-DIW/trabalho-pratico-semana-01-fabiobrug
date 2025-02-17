@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Fabio Missiaggia Brugnara 
+Matricula: 894438
 
 ## Tela de inspeção com navegador
-
+![Tela de inspeção com navegador](<Captura de tela 2025-02-17 175003.png>)
 
 ## Tela de projeto no Replit
-
+![Tela de projeto no Replit](<Captura de tela 2025-02-17 180634.png>)
